@@ -1,14 +1,46 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+
+
+
 body {
+
+    background-image: url("https://wallpapercave.com/wp/z0yKCpm.jpg");
+
 }
 
 main#container {
+    background-color: rgba(98, 26, 100, 0.5);
+    border-style: solid white;
+    border-radius: 30px;
+    border: double;
+    border-width: 30px;
+    border-color: aliceblue;
+    color: darkblue;
+    cursor: pointer;
+    
+}
+
+main#container:hover{
+
+opacity: 0.7;
+
 }
 
 h1.titulo {
+    font-family: 'Permanent Marker';
+    font-size: 35px;
+    color: black;
+
 }
 
 p.frase {
+    font-family: 'Permanent Marker';
+    font-size: 30px;
+    color: aliceblue;
 }
 
 p.autor {
+    font-family: 'Permanent Marker';
+    color: aliceblue;
 }
