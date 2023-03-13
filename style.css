@@ -13,8 +13,7 @@ main#container {
     background-color: rgba(98, 26, 100, 0.5);
     border-style: solid white;
     border-radius: 30px;
-    border: double;
-    border-width: 30px;
+    border: solid;
     border-color: aliceblue;
     color: darkblue;
     cursor: pointer;
